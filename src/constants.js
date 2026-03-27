@@ -36,7 +36,7 @@ import agcLogo from './assets/company_logo/bg1.jFIF';
 import newtonschoolLogo from './assets/company_logo/ifuture.png';
 
 // Education Section Logo's
-import glaLogo from './assets/education_logo/dbatu.JFIF';
+import glaLogo from './assets/education_logo/dbatu.jfif';
 import bsaLogo from './assets/education_logo/unnamed.png';
 // import vpsLogo from './assets/education_logo/vps_logo.png';
 
