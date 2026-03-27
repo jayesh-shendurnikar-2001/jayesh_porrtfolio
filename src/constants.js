@@ -32,7 +32,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/internshala.png';
-import agcLogo from './assets/company_logo/bg1.jFIF';
+import agcLogo from './assets/company_logo/bg1.jfif';
 import newtonschoolLogo from './assets/company_logo/ifuture.png';
 
 // Education Section Logo's
