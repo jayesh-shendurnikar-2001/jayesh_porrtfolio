@@ -1,4 +1,3 @@
-import React from "react";
 import Tilt from "react-parallax-tilt";
 import ReactTypingEffect from "react-typing-effect";
 import profileImage from "../../assets/profile2.png";
@@ -52,7 +51,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1Xhg2d3c6XvBAesni7kbPHLKn7EsDnHKV/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ujHTeNJWkWu4NIzstuKqPjaxQlTEc_AP/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
